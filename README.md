@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-warmth-is-gone/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Your Warmth Is Gone](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-warmth-is-gone/) |
+| **Get License** | [Get License For Your Warmth Is Gone](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-warmth-is-gone/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a5afe023a055ba628c44d2d73692b8335b113d3a73c1ffff3fba6cd15bdd60ce` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

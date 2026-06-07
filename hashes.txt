@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Warmth Is Gone
+
+This log tracks the cryptographic history and versioning for the song **Your Warmth Is Gone** (your-warmth-is-gone).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T13:09:08.411054 | `v1` | `a5afe023a055ba628c44d2d73692b8335b113d3a73c1ffff3fba6cd15bdd60ce` | `3e7894c265099637f8953e35ad5b58e26f0e1b4514c5d08c606db920faf294cf` | `2026-06-07_your-warmth-is-gone-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
